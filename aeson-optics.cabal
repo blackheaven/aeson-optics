@@ -1,4 +1,4 @@
-version:            1.2.2
+version:            1.2.3
 name:               aeson-optics
 category:           Data, JSON, Optics
 license:            MIT
@@ -24,6 +24,8 @@ tested-with:
    || ==9.4.8
    || ==9.6.5
    || ==9.8.2
+   || ==9.10.1
+   || ==9.12.1
 
 synopsis:           Law-abiding optics for aeson
 description:        Law-abiding optics for aeson.
